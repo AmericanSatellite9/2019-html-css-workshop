@@ -1,0 +1,23 @@
+body {
+  color: #1c69d4;
+  border: 5px solid red;
+  font-family: sans-serif;
+}
+
+p {
+  /*this is a comment or something */ 
+  border: 2px dotted black;
+  padding: 5px;
+  margin: 4px
+}
+
+div {
+  border: 1px solid SlateBlue;
+  width: 200px;
+  /* float: left; */
+  display: inline-block;
+}
+
+.first {
+  background-color: #333;
+}
